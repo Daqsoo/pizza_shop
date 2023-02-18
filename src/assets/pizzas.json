@@ -1,0 +1,102 @@
+[
+  {
+    "id": 0,
+    "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/1ae47c85a7a741b98a28c5a6f3e7fb6a_292x292.webp",
+    "title": "Pepperoni Fresh",
+    "types": [0, 1],
+    "sizes": [0, 1, 2],
+    "price": 45.91,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 1,
+    "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/50f080597eeb45c08ead78ff5f2aa189_292x292.webp",
+    "title": "4 Cheese",
+    "types": [0],
+    "sizes": [26, 40],
+    "price": 45.91,
+    "category": 0,
+    "rating": 6
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/4b1618e6e7f4426bafe236b2a0e85005_292x292.webp",
+    "title": "Chicken BBQ",
+    "types": [0],
+    "sizes": [26, 40],
+    "price": 45.91,
+    "category": 1,
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/9a59cf1de435415fa9b5137e50c95379_292x292.webp",
+    "title": "Chicken Tikka",
+    "types": [1],
+    "sizes": [0, 1, 2],
+    "price": 50.16,
+    "category": 2,
+    "rating": 2
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/en-GB/7aff961f-e34f-4df9-8628-49c29aa5b227_292x292.webp",
+    "title": "The Mighty Meats",
+    "types": [0, 1],
+    "sizes": [0, 1, 2],
+    "price": 50.16,
+    "category": 3,
+    "rating": 8
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/1ae47c85a7a741b98a28c5a6f3e7fb6a_292x292.webp",
+    "title": "Double Pepperoni",
+    "types": [0],
+    "sizes": [30, 40],
+    "price": 50.16,
+    "category": 2,
+    "rating": 2
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/en-GB/208c2236-aaea-478e-a6b5-128a0fd7f14e_292x292.webp",
+    "title": "Pepperoni",
+    "types": [0, 1],
+    "sizes": [0, 1, 2],
+    "price": 45.91,
+    "category": 1,
+    "rating": 9
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/fc10112f6eff45828d4e12e346a613bf_292x292.webp",
+    "title": "Rock’IT",
+    "types": [0, 1],
+    "sizes": [0, 1, 2],
+    "price": 59.09,
+    "category": 4,
+    "rating": 10
+  },
+  {
+    "id": 8,
+    "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/56d33ebb763a456dbebaf7db5d757db9_292x292.webp",
+    "title": "Veggie Hot",
+    "types": [0, 1],
+    "sizes": [0, 1, 2],
+    "price": 45.91,
+    "category": 5,
+    "rating": 10
+  },
+  {
+    "id": 9,
+    "imageUrl": "https://dodopizza-a.akamaihd.net/static/Img/Products/f8d67aec62e346c39d16ce97d72210a8_292x292.webp",
+    "title": "Snobby Mushrooms",
+    "types": [0, 1],
+    "sizes": [0, 1, 2],
+    "price": 45.91,
+    "category": 5,
+    "rating": 7
+  }
+]
